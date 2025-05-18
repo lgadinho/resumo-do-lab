@@ -29,3 +29,7 @@
 
   Governança
   A auditoria em nuvem a sinalizar qualquer recurso q esteja fora de conformidade com seus padrões
+
+  Gerenciabilidade
+  Capacidade de gerenciamento para computação em nuvem
+  implantar recursos com base em um modelo pré-cinfigurado, removendo a necessidadde de configuração manual
